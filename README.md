@@ -1,70 +1,69 @@
-# Hi there, I'm Mrigank Rana! 👋
+# Hi, I'm Mrigank Rana 👋
 
-### 🎓 AI & Machine Learning Student at VIPS
+AI & Machine Learning student at **VIPS (Vivekananda Institute of Professional Studies)**, passionate about building practical systems across ML, automation, and full-stack development.
 
-I am a passionate developer and student currently pursuing my degree in **Artificial Intelligence and Machine Learning** at **VIPS (Vivekananda Institute of Professional Studies)**. I love solving complex problems using Python, JavaScript, and C, and I'm diving deep into the world of data and automation.
+I enjoy solving real-world problems with **Python, JavaScript/TypeScript, C, and SQL** - especially projects that combine intelligent models with reliable product design.
+
+## Featured Projects
+
+### Smart Factory Dashboard
+Modern industrial dashboard with an active control loop (**Insight -> Action**) for intervention, anomaly validation through multi-variable analysis, and automated load balancing for production optimization.  
+**Stack:** React, Node.js, Python
+
+### Silent Signal v2
+Stealth emergency alert system for high-risk scenarios, using a **Duress PIN** to silently trigger emergency protocols while showing a safe decoy interface.
+
+### Deep-Voice-Defender
+AI-based system to identify AI-generated/manipulated audio and defend against deepfake voice attacks.
+
+### Schedule-AI
+Intelligent scheduling assistant focused on workflow optimization, time management, and balanced task distribution.
+
+## Hackathons & Achievements
+
+- 🥈 **2nd Place - Hack JMI (IEEE), Jamia Millia Islamia, Delhi**  
+  Built *Silent Signal* under real-world constraints where asking for help is not always possible; implemented stealth SOS alerts and location sharing.
+- 🥈 **2nd Place - Byte Runner ML Hackathon, TRYST'26 IIT Delhi**  
+  Team *Ingenious*: worked on urban mission planning using ML + computer vision to generate valid road-constrained paths from satellite imagery.
+- 🥈 **2nd Place - Code Twist 4.0 (Web Auction Hackathon), SSCBS Delhi (2026)**
+
+## Tech Stack
+
+### Languages
+`Python` `JavaScript` `TypeScript` `C` `SQL`
+
+### Domains
+- 🤖 Machine Learning (models, AI workflows, control loops)
+- 📊 Data Analysis (SQL + Python)
+- 🧠 Data Structures & Algorithms (graphs, trees, sorting, searching)
+- ⚙️ System Design & Automation (resilient full-stack systems)
+
+### Tools & Frameworks
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+## GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=mrigank-rana&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false)
+![](https://streak-stats.demolab.com/?user=mrigank-rana&theme=shadow_red&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mrigank-rana&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## Connect With Me
+
+- 📧 **Email:** [mrigankrana09@gmail.com](mailto:mrigankrana09@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/mrigank-rana-9a25422ba](https://www.linkedin.com/in/mrigank-rana-9a25422ba)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrigank-rana)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrigankrana09@gmail.com)
 
 ---
-
-### 🚀 Featured Projects
-
-* 🏭 **[Smart Factory Dashboard](https://github.com/mrigank-rana/Smart_Factory_Dashboard)**
-  A modern industrial dashboard that integrates a control loop (Insight → Action) for active intervention, anomaly validation using multi-variable analysis, and automated load balancing for production optimization. *(Built with React, Node, and Python)*
-* 🚨 **[Silent Signal v2](https://github.com/mrigank-rana/Silentsignalv2)** 
-  A stealth emergency alert system designed for high-stakes safety situations. It uses a "Duress PIN" system to silently trigger emergency protocols while maintaining a decoy interface to avoid detection by a perpetrator.
-* 🔊 **[Deep-Voice-Defender](https://github.com/mrigank-rana/deep-voice-defender)**
-  An AI-powered tool focusing on identifying AI-generated or manipulated audio to defend against deepfake voice attacks and maintain conversational integrity.
-* 📅 **[Schedule-AI](https://github.com/mrigank-rana/Schedule-AI)**
-  An intelligent, automated scheduling solution aimed at optimizing workflows, time management, and task distribution.
-
----
-
-### 🏆 Hackathons & Achievements
-
-* 🥈 **2nd Place @ Hack JMI (IEEE) — Jamia Millia Islamia, Delhi**
-  Competed among 200+ teams. We built **[Silent Signal](#)** around real constraints where asking for help isn't an option, implementing a stealth SOS alert and location-sharing system under severe pressure.
-* 🥈 **2nd Place @ Byte Runner ML Hackathon — TRYST'26, IIT Delhi**
-  Participated as Team Ingenious. Focused on urban mission planning — using machine learning and computer vision to generate valid road-constrained paths from satellite imagery under strict time limits.
-
----
-
-### 🛠️ Languages & Tools
-
-**Core Languages:**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-**Domains & Interests:**
-* 🤖 **Machine Learning:** Building models, automated control loops, and exploring AI frameworks.
-* 📊 **Data Analysis:** Wrangling data with SQL and Python.
-* 🧠 **Data Structures & Algorithms:** Strong grasp of DSA concepts (Graphs, Trees, Sorting, Searching).
-* ⚙️ **System Design & Automation:** Creating full-stack interactive dashboards and resilient stealth applications.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrigank-rana&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrigank-rana&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrigank-rana&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 📬 Let's Connect
-
-Always open to talking about machine learning systems, full-stack automations, AI safety, or anything that sounds technically challenging.
-
-<p align="left">
-  <a href="mailto:mrigankrana09@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-mrigankrana09@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mrigank-rana-9a25422ba">
-    <img src="https://img.shields.io/badge/LINKEDIN-MRIGANK%20RANA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-</p>
+[![](https://komarev.com/ghpvc/?username=mrigank-rana&icon=0&color=4)](https://visitcount.itsvg.in)
