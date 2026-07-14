@@ -66,4 +66,4 @@ Intelligent scheduling assistant focused on workflow optimization, time manageme
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrigankrana09@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mrigank-rana&icon=0&color=4)](https://visitcount.itsvg.in)
+![](https://count.getloli.com/@mrigank-rana?name=mrigank-rana&theme=moebooru)
