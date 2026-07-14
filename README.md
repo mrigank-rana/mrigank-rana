@@ -53,9 +53,9 @@ Intelligent scheduling assistant focused on workflow optimization, time manageme
 
 ## GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=mrigank-rana&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false)
-![](https://streak-stats.demolab.com/?user=mrigank-rana&theme=shadow_red&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mrigank-rana&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mrigank-rana&theme=shadow_red&hide_border=false&show_icons=true&include_all_commits=true)
+![](https://streak-stats.demolab.com?user=mrigank-rana&theme=shadow_red&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrigank-rana&theme=shadow_red&hide_border=false&layout=compact)
 
 ## Connect With Me
 
